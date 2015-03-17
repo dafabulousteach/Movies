@@ -1,0 +1,9 @@
+Hello and Welcome!
+
+My name is Kim Merino and I am budding developer. I taught myself Python and this project I created is a webpage that shows my favorite movies. Click on the movie poster and the trailer will play in another window.
+
+In your terminal, type:
+
+Python entertainment_center.py 
+
+and watch what happens!
